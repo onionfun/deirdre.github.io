@@ -175,7 +175,7 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
-  color: white;
+  color: #343a40;
   background-image: url("../img/portfolio/backend.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -184,11 +184,13 @@ header.masthead {
 }
 
 header.masthead .intro-text {
+  color: #343a40;
   padding-top: 150px;
   padding-bottom: 100px;
 }
 
 header.masthead .intro-text .intro-lead-in {
+  color: #343a40;
   font-size: 22px;
   font-style: italic;
   line-height: 22px;
@@ -197,6 +199,7 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 header.masthead .intro-text .intro-heading {
+  color: #343a40;
   font-size: 50px;
   font-weight: 700;
   line-height: 50px;
